@@ -7,4 +7,4 @@ My model uses the Catboost library to implement a ranker function that is able t
 ```
 Every other parameter was left to default.
 ## Run
-Before running the model, please ensure that your data files (test and training) are in the same folder as the python model file. Ensure you have also loaded in the requirements text so that you have the libraries needed to run the model.  
+Before running the model, please ensure that your data files (test and training) are in the same folder as the python model file. Ensure you have also loaded in the requirements text so that you have the libraries needed to run the model. For privacy reasons, no data has been included in these files.
